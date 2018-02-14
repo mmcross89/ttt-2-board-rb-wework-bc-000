@@ -1,7 +1,5 @@
 # Define the variable board below
 
-board = display_board
-
-display_board = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 
