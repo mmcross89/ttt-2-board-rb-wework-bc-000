@@ -2,6 +2,6 @@
 
 board = display_board
 
-board = [" "," "," "," "," "," "," "," "," "]
+display_board = [" "," "," "," "," "," "," "," "," "]
 
 puts board
